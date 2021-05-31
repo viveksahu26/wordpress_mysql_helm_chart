@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "2"
+    created: "2021-05-31T17:08:00.404448459Z"
+    description: This is my custom chart to deploy wordpress and mysql
+    digest: b9daba3680c1227922253f6521a9bb428d4ae31a5689a1a6f4262b6bd29bce4e
+    name: mychart
+    urls:
+    - mychart-1.tgz
+    version: "1"
+generated: "2021-05-31T17:08:00.393713801Z"

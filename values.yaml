@@ -1,0 +1,6 @@
+replicawpCount: 1
+replicadbCount: 1
+pvcStorage: 5Gi
+servicewpPort: 80
+servicedbPort: 3306
+
